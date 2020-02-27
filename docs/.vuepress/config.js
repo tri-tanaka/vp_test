@@ -63,7 +63,7 @@ module.exports = {
     },
     themeConfig: {
         nav: [
-            {text: 'Triana', link: 'triana.jp'}
+            {text: 'Triana', link: 'https://triana.jp'}
         ]
     }
 
