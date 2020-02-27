@@ -48,23 +48,22 @@ module.exports = {
         md.options.linkify = true
     },
     themeConfig: {
-        sidebar: sidebarArray
+        sidebar: sidebarArray,
+        nav: [{
+                text: 'Home',
+                link: '/'
+            },
+            {
+                text: 'About',
+                link: '/docs/about.html'
+            },
+            {
+                text: 'Triana',
+                link: 'https://triana.jp/'
+            }
+        ]
     }
 };
 
 //check for sidebar
 console.log(sidebarArray);
-
-module.exports = {
-    locales: {
-        '/': {
-            lang: 'ja'
-        }
-    },
-    themeConfig: {
-        nav: [
-            {text: 'Triana', link: 'https://triana.jp'}
-        ]
-    }
-
-}
