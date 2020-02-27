@@ -60,5 +60,11 @@ module.exports = {
         '/': {
             lang: 'ja'
         }
+    },
+    themeConfig: {
+        nav: [
+            {text: 'Triana', link: 'triana.jp'}
+        ]
     }
+
 }
