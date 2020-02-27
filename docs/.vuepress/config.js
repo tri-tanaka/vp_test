@@ -54,3 +54,11 @@ module.exports = {
 
 //check for sidebar
 console.log(sidebarArray);
+
+module.exports = {
+    locales: {
+        '/': {
+            lang: 'ja'
+        }
+    }
+}
