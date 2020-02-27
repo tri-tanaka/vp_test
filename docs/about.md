@@ -3,7 +3,7 @@ title: Home Title
 description: Home description
 home: true
 heroText: Springfield Dim Sum
-heroImage: img/hero.jpg
+heroImage: .vuepress/public/img/hero.jpg
 ---
 
 # about
