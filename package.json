@@ -1,0 +1,30 @@
+{
+  "name": "VuePressOnGithubPagesTemplate",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "vuepress": "^0.8.4"
+  },
+  "license": "MIT",
+  "description": "This is VuePress template for GitHub Pages. Just you need these 4 steps, and then, publish!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tri-tanaka/vp_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tri-tanaka/vp_test/issues"
+  },
+  "homepage": "https://github.com/tri-tanaka/vp_test#readme"
+}
