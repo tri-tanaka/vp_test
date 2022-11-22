@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "dotenv": "^5.0.1",
-    "vuepress": "^0.8.4"
+    "vuepress": "^1.9.7"
   },
   "license": "MIT",
   "description": "This is VuePress template for GitHub Pages. Just you need these 4 steps, and then, publish!",
